@@ -1,4 +1,4 @@
-# Seriços do Azure
+# Seriços no Azure
 
 Pra começar no **Azure**, dá pra criar uma conta gratuita no site da Microsoft. Precisa colocar e-mail e cartão de crédito só pra validar, mas não cobra nada no começo. Eles ainda dão um crédito inicial e alguns serviços ficam de graça por 12 meses, o que já dá pra testar bastante coisa.
 
