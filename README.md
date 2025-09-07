@@ -1,4 +1,4 @@
-# Resumo do lab: Microsoft Azure - Localizando Serviços por Categoria
+# Microsoft Azure - Localizando Serviços por Categoria
 
 O que eu entendi da aula é que, pra começar no **Azure**, dá pra criar uma conta gratuita no site da Microsoft.  
 Precisa colocar e-mail e cartão de crédito só pra validar, mas não cobra nada no começo.  
@@ -20,5 +20,3 @@ Por fim, o Azure oferece vários serviços:
 - **Armazenamento escalável**  
 - **Redes virtuais seguras**  
 - Soluções avançadas de **IA, análise de dados, IoT e DevOps**
-
----
